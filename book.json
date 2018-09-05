@@ -1,0 +1,6 @@
+{
+    "plugins": [
+        "navigation",
+        "copy-code"
+    ]
+}
